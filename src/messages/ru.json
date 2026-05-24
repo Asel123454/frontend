@@ -1,0 +1,153 @@
+{
+  "common": {
+    "appName": "Craft & Organic KG",
+    "home": "Главная",
+    "products": "Товары",
+    "categories": "Категории",
+    "cart": "Корзина",
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "profile": "Профиль",
+    "search": "Поиск...",
+    "language": "Язык",
+    "currency": "сом",
+    "addToCart": "В корзину",
+    "buyNow": "Купить сейчас",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "success": "Успешно!",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "back": "Назад",
+    "next": "Далее",
+    "previous": "Назад",
+    "all": "Все",
+    "noResults": "Ничего не найдено",
+    "price": "Цена",
+    "quantity": "Количество",
+    "total": "Итого",
+    "orderNow": "Оформить заказ",
+    "myOrders": "Мои заказы",
+    "settings": "Настройки",
+    "orderNumber": "Номер заказа"
+  },
+  "home": {
+    "hero": {
+      "title": "Лучшие натуральные товары Кыргызстана",
+      "subtitle": "Покупайте ремесленные и органические товары от местных производителей",
+      "cta": "Смотреть товары",
+      "badge": "100% Органика и Ручная работа",
+      "organicBadge": "Сертифицировано 100%"
+    },
+    "featured": "Популярные товары",
+    "categories": "Категории",
+    "whyUs": {
+      "title": "Почему мы?",
+      "organic": "100% Органика",
+      "organicDesc": "Все товары натуральные и экологически чистые",
+      "handmade": "Ручная работа",
+      "handmadeDesc": "Каждый товар создан мастерами вручную",
+      "local": "Местное",
+      "localDesc": "Товары из всех регионов Кыргызстана"
+    },
+    "popularCategories": {
+      "title": "Популярные категории",
+      "organic": "Органика и Еда",
+      "felt": "Ремесло и Войлок",
+      "cosmetics": "Натуральная косметика",
+      "viewProducts": "Смотреть товары"
+    },
+    "sellerCta": {
+      "title": "Создаете уникальные вещи?",
+      "subtitle": "Присоединяйтесь к нам и начните продавать свои товары по всему Кыргызстану.",
+      "button": "Стать продавцом"
+    },
+    "trustBadges": {
+      "secure": "Безопасные покупки",
+      "secureDesc": "Защита платежей",
+      "delivery": "Быстрая доставка",
+      "deliveryDesc": "По всему Кыргызстану",
+      "support": "Прямая связь",
+      "supportDesc": "Поддержка местных мастеров"
+    }
+  },
+  "auth": {
+    "loginTitle": "Вход в систему",
+    "registerTitle": "Регистрация",
+    "email": "Email",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "name": "Имя",
+    "role": "Роль",
+    "buyer": "Покупатель",
+    "seller": "Продавец",
+    "noAccount": "Нет аккаунта?",
+    "hasAccount": "Уже есть аккаунт?",
+    "signUp": "Зарегистрируйтесь",
+    "signIn": "Войдите"
+  },
+  "product": {
+    "details": "О товаре",
+    "reviews": "Отзывы",
+    "addReview": "Оставить отзыв",
+    "inStock": "В наличии",
+    "outOfStock": "Нет в наличии",
+    "seller": "Продавец",
+    "category": "Категория",
+    "relatedProducts": "Похожие товары"
+  },
+  "cart": {
+    "title": "Корзина",
+    "empty": "Ваша корзина пуста",
+    "checkout": "Оформить заказ",
+    "shippingAddress": "Адрес доставки",
+    "orderSummary": "Итого по заказу",
+    "subtotal": "Подытог",
+    "shipping": "Доставка",
+    "free": "Бесплатно",
+    "placeOrder": "Оформить заказ",
+    "continueShopping": "Продолжить покупки",
+    "removeItem": "Удалить"
+  },
+  "seller": {
+    "dashboard": "Панель продавца",
+    "myProducts": "Мои товары",
+    "addProduct": "Добавить товар",
+    "editProduct": "Редактировать товар",
+    "orders": "Заказы",
+    "stats": "Статистика",
+    "revenue": "Доход",
+    "totalProducts": "Всего товаров",
+    "totalOrders": "Всего заказов"
+  },
+  "admin": {
+    "dashboard": "Админ-панель",
+    "users": "Пользователи",
+    "allProducts": "Все товары",
+    "allOrders": "Все заказы",
+    "categories": "Категории",
+    "manageUsers": "Управление пользователями",
+    "manageCategories": "Управление категориями"
+  },
+  "order": {
+    "status": {
+      "PENDING": "Ожидает",
+      "CONFIRMED": "Подтверждён",
+      "SHIPPED": "Отправлен",
+      "DELIVERED": "Доставлен",
+      "CANCELLED": "Отменён"
+    },
+    "orderPlaced": "Заказ оформлен!",
+    "orderNumber": "Номер заказа"
+  },
+  "footer": {
+    "about": "О нас",
+    "aboutText": "Craft & Organic KG — маркетплейс ремесленных и органических товаров Кыргызстана.",
+    "links": "Ссылки",
+    "contact": "Контакты",
+    "rights": "Все права защищены"
+  }
+}

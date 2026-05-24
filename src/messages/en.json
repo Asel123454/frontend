@@ -1,0 +1,153 @@
+{
+  "common": {
+    "appName": "Craft & Organic KG",
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "login": "Sign In",
+    "register": "Sign Up",
+    "logout": "Sign Out",
+    "profile": "Profile",
+    "search": "Search...",
+    "language": "Language",
+    "currency": "som",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "all": "All",
+    "noResults": "No results found",
+    "price": "Price",
+    "quantity": "Quantity",
+    "total": "Total",
+    "orderNow": "Order Now",
+    "myOrders": "My Orders",
+    "settings": "Settings",
+    "orderNumber": "Order Number"
+  },
+  "home": {
+    "hero": {
+      "title": "Best Natural Products from Kyrgyzstan",
+      "subtitle": "Shop for handcrafted and organic goods directly from local artisans",
+      "cta": "View Products",
+      "badge": "100% Organic & Handcrafted",
+      "organicBadge": "Certified 100%"
+    },
+    "featured": "Featured Products",
+    "categories": "Categories",
+    "whyUs": {
+      "title": "Why Choose Us?",
+      "organic": "100% Organic",
+      "organicDesc": "All products are natural and eco-friendly",
+      "handmade": "Handcrafted",
+      "handmadeDesc": "Each product is made by skilled artisans",
+      "local": "Local",
+      "localDesc": "Goods from all regions of Kyrgyzstan"
+    },
+    "popularCategories": {
+      "title": "Popular Categories",
+      "organic": "Organic & Food",
+      "felt": "Crafts & Felt",
+      "cosmetics": "Natural Cosmetics",
+      "viewProducts": "View Products"
+    },
+    "sellerCta": {
+      "title": "Do you create unique things?",
+      "subtitle": "Join us and start selling your handmade goods across Kyrgyzstan.",
+      "button": "Become a Seller"
+    },
+    "trustBadges": {
+      "secure": "Secure Shopping",
+      "secureDesc": "Payment protection",
+      "delivery": "Fast Delivery",
+      "deliveryDesc": "Across all Kyrgyzstan",
+      "support": "Direct Connection",
+      "supportDesc": "Support local artisans"
+    }
+  },
+  "auth": {
+    "loginTitle": "Sign In",
+    "registerTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "role": "Role",
+    "buyer": "Buyer",
+    "seller": "Seller",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In"
+  },
+  "product": {
+    "details": "About Product",
+    "reviews": "Reviews",
+    "addReview": "Leave a Review",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "seller": "Seller",
+    "category": "Category",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "checkout": "Checkout",
+    "shippingAddress": "Shipping Address",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "placeOrder": "Place Order",
+    "continueShopping": "Continue Shopping",
+    "removeItem": "Remove"
+  },
+  "seller": {
+    "dashboard": "Seller Dashboard",
+    "myProducts": "My Products",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "orders": "Orders",
+    "stats": "Statistics",
+    "revenue": "Revenue",
+    "totalProducts": "Total Products",
+    "totalOrders": "Total Orders"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "users": "Users",
+    "allProducts": "All Products",
+    "allOrders": "All Orders",
+    "categories": "Categories",
+    "manageUsers": "Manage Users",
+    "manageCategories": "Manage Categories"
+  },
+  "order": {
+    "status": {
+      "PENDING": "Pending",
+      "CONFIRMED": "Confirmed",
+      "SHIPPED": "Shipped",
+      "DELIVERED": "Delivered",
+      "CANCELLED": "Cancelled"
+    },
+    "orderPlaced": "Order Placed!",
+    "orderNumber": "Order Number"
+  },
+  "footer": {
+    "about": "About Us",
+    "aboutText": "Craft & Organic KG — a marketplace for handcrafted and organic products from Kyrgyzstan.",
+    "links": "Links",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  }
+}
