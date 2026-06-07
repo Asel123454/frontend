@@ -18,6 +18,11 @@ const nextConfig: NextConfig = {
         hostname: "*.onrender.com",
         pathname: "/uploads/**",
       },
+      {
+        // Фото товаров с Unsplash
+        protocol: "https",
+        hostname: "images.unsplash.com",
+      },
     ],
   },
 };
