@@ -12,6 +12,12 @@ const nextConfig: NextConfig = {
         port: "4000",
         pathname: "/uploads/**",
       },
+      {
+        // Бэкенд на Render (https://*.onrender.com)
+        protocol: "https",
+        hostname: "*.onrender.com",
+        pathname: "/uploads/**",
+      },
     ],
   },
 };
