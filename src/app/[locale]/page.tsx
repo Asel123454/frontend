@@ -35,7 +35,7 @@ function HomeContent() {
                 <Sparkles className="w-4 h-4" />
                 {t("hero.badge")}
               </div>
-              <h1 className="text-3xl sm:text-5xl lg:text-7xl font-extrabold leading-tight mb-6 break-words hyphens-auto">
+              <h1 className="text-2xl sm:text-4xl lg:text-6xl font-extrabold leading-tight mb-6 break-words hyphens-auto">
                 <span className="gradient-text">{t("hero.title")}</span>
               </h1>
               <p className="text-lg sm:text-xl text-muted-foreground mb-8 max-w-xl leading-relaxed">
