@@ -110,7 +110,17 @@
     "free": "Free",
     "placeOrder": "Place Order",
     "continueShopping": "Continue Shopping",
-    "removeItem": "Remove"
+    "removeItem": "Remove",
+    "payment": "Payment Method",
+    "cardNumber": "Card Number",
+    "cardHolder": "Card Holder",
+    "expiry": "Expiry Date",
+    "cvv": "CVV",
+    "cardNumberPlaceholder": "0000 0000 0000 0000",
+    "cardHolderPlaceholder": "FULL NAME",
+    "expiryPlaceholder": "MM/YY",
+    "cvvPlaceholder": "000",
+    "mockPaymentNote": "Test mode — no real charge will be made"
   },
   "seller": {
     "dashboard": "Seller Dashboard",

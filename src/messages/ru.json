@@ -110,7 +110,17 @@
     "free": "Бесплатно",
     "placeOrder": "Оформить заказ",
     "continueShopping": "Продолжить покупки",
-    "removeItem": "Удалить"
+    "removeItem": "Удалить",
+    "payment": "Способ оплаты",
+    "cardNumber": "Номер карты",
+    "cardHolder": "Имя держателя",
+    "expiry": "Срок действия",
+    "cvv": "CVV",
+    "cardNumberPlaceholder": "0000 0000 0000 0000",
+    "cardHolderPlaceholder": "ИМЯ ФАМИЛИЯ",
+    "expiryPlaceholder": "ММ/ГГ",
+    "cvvPlaceholder": "000",
+    "mockPaymentNote": "Тестовый режим — реальное списание не производится"
   },
   "seller": {
     "dashboard": "Панель продавца",

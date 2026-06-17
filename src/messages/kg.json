@@ -110,7 +110,17 @@
     "free": "Акысыз",
     "placeOrder": "Буюртма берүү",
     "continueShopping": "Сатып алууну улантуу",
-    "removeItem": "Алып салуу"
+    "removeItem": "Алып салуу",
+    "payment": "Төлөм ыкмасы",
+    "cardNumber": "Карта номери",
+    "cardHolder": "Карта ээсинин аты",
+    "expiry": "Жарактуулук мөөнөтү",
+    "cvv": "CVV",
+    "cardNumberPlaceholder": "0000 0000 0000 0000",
+    "cardHolderPlaceholder": "АТЫ-ЖӨНҮ",
+    "expiryPlaceholder": "АА/ЖЖ",
+    "cvvPlaceholder": "000",
+    "mockPaymentNote": "Тест режими — чыныгы эсептен чегерилбейт"
   },
   "seller": {
     "dashboard": "Сатуучунун панели",
